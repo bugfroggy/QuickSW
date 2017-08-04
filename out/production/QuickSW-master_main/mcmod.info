@@ -5,9 +5,21 @@
   "description": "Quick buttons to play skywars on Hypixel.",
   "version": "${version}",
   "mcversion": "${mcversion}",
+<<<<<<< HEAD
+<<<<<<< HEAD
   "url": "http://www.github.com/bugfroggy/QuickSW",
   "updateUrl": "http://www.github.com/bugfroggy/QuickSW",
   "authorList": ["Leonardosnt", "bugfroggy"],
+=======
+  "url": "http://www.github.com/leonardosnt/QuickSW",
+  "updateUrl": "http://www.github.com/leonardosnt/QuickSW",
+  "authorList": ["Leonardosnt"],
+>>>>>>> d1eeaa0a164ce9fee80751df9aec9f9922d0805b
+=======
+  "url": "http://www.github.com/leonardosnt/QuickSW",
+  "updateUrl": "http://www.github.com/leonardosnt/QuickSW",
+  "authorList": ["Leonardosnt"],
+>>>>>>> d1eeaa0a164ce9fee80751df9aec9f9922d0805b
   "credits": "Vic_ for awesome event list. (https://dl.dropboxusercontent.com/s/h777x7ugherqs0w/forgeevents.html)",
   "logoFile": "",
   "screenshots": [],

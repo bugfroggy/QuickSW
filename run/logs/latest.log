@@ -1,0 +1,70 @@
+[16:09:58] [Client thread/INFO]: Setting user: Player298
+[16:10:01] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:10:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:QuickSW
+[16:10:07] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:10:07] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[16:10:07] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:10:07] [Thread-9/INFO]: OpenAL initialized.
+[16:10:07] [Sound Library Loader/INFO]: Sound engine started
+[16:10:09] [Client thread/INFO]: Created: 16x16 textures-atlas
+[16:10:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:QuickSW
+[16:10:10] [Client thread/INFO]: SoundSystem shutting down...
+[16:10:10] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:10:10] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:10:10] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[16:10:10] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:10:10] [Thread-11/INFO]: OpenAL initialized.
+[16:10:10] [Sound Library Loader/INFO]: Sound engine started
+[16:10:12] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:10:16] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[16:10:16] [Server thread/INFO]: Generating keypair
+[16:10:16] [Server thread/INFO]: Preparing start region for level 0
+[16:10:17] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:10:19] [Server thread/INFO]: Player298[local:E:3544f336] logged in with entity id 399 at (115.96146112369337, 69.0, 236.70347710770412)
+[16:10:19] [Server thread/INFO]: Player298 joined the game
+[16:10:23] [Server thread/INFO]: Saving and pausing game...
+[16:10:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:10:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:10:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:12:16] [Server thread/INFO]: Saving and pausing game...
+[16:12:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:12:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:12:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:25:28] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:29:22] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:29:22] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:29:22] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:29:22] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:29:23] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:29:50] [Server thread/INFO]: <Player298> play teams_insane_tnt_madness
+[16:29:50] [Client thread/INFO]: [CHAT] <Player298> play teams_insane_tnt_madness
+[16:29:53] [Server thread/INFO]: <Player298> play teams_insane_rush
+[16:29:53] [Client thread/INFO]: [CHAT] <Player298> play teams_insane_rush
+[16:29:54] [Server thread/INFO]: <Player298> play teams_insane_blizzard
+[16:29:54] [Client thread/INFO]: [CHAT] <Player298> play teams_insane_blizzard
+[16:29:55] [Server thread/INFO]: <Player298> play teams_insane_floor_is_lava
+[16:29:55] [Client thread/INFO]: [CHAT] <Player298> play teams_insane_floor_is_lava
+[16:29:56] [Server thread/INFO]: <Player298> play teams_normal_kill_by_color
+[16:29:56] [Client thread/INFO]: [CHAT] <Player298> play teams_normal_kill_by_color
+[16:29:58] [Server thread/INFO]: <Player298> play solo_normal_kill_by_color
+[16:29:58] [Client thread/INFO]: [CHAT] <Player298> play solo_normal_kill_by_color
+[16:30:01] [Server thread/INFO]: <Player298> play solo_insane_floor_is_lava
+[16:30:01] [Client thread/INFO]: [CHAT] <Player298> play solo_insane_floor_is_lava
+[16:30:02] [Server thread/INFO]: <Player298> play solo_insane_blizzard
+[16:30:02] [Client thread/INFO]: [CHAT] <Player298> play solo_insane_blizzard
+[16:30:03] [Server thread/INFO]: <Player298> play solo_insane_rush
+[16:30:03] [Client thread/INFO]: [CHAT] <Player298> play solo_insane_rush
+[16:30:03] [Server thread/INFO]: <Player298> play solo_insane_tnt_madness
+[16:30:03] [Client thread/INFO]: [CHAT] <Player298> play solo_insane_tnt_madness
+[16:30:04] [Server thread/INFO]: <Player298> play ranked_normal
+[16:30:04] [Client thread/INFO]: [CHAT] <Player298> play ranked_normal
+[16:30:04] [Server thread/INFO]: <Player298> play solo_insane
+[16:30:04] [Client thread/INFO]: [CHAT] <Player298> play solo_insane
+[16:30:05] [Server thread/INFO]: <Player298> play solo_normal
+[16:30:05] [Client thread/INFO]: [CHAT] <Player298> play solo_normal
+[16:30:07] [Server thread/INFO]: <Player298> play teams_insane
+[16:30:07] [Client thread/INFO]: [CHAT] <Player298> play teams_insane
+[16:30:07] [Server thread/INFO]: <Player298> play teams_normal
+[16:30:07] [Client thread/INFO]: [CHAT] <Player298> play teams_normal
+[16:30:08] [Server thread/INFO]: <Player298> play mega_normal
+[16:30:08] [Client thread/INFO]: [CHAT] <Player298> play mega_normal
