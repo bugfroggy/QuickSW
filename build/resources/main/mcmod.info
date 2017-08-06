@@ -1,10 +1,10 @@
 [
 {
-  "modid": "QuickSW",
+  "modid": "quicksw",
   "name": "QuickSW",
   "description": "Quick buttons to play skywars on Hypixel.",
-  "version": "1.1",
-  "mcversion": "1.8",
+  "version": "1.1.1",
+  "mcversion": "1.12",
   "url": "http://www.github.com/bugfroggy/QuickSW",
   "updateUrl": "http://www.github.com/bugfroggy/QuickSW",
   "authorList": ["Leonardosnt", "bugfroggy"],

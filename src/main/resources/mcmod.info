@@ -1,6 +1,6 @@
 [
 {
-  "modid": "QuickSW",
+  "modid": "quicksw",
   "name": "QuickSW",
   "description": "Quick buttons to play skywars on Hypixel.",
   "version": "${version}",
